@@ -82,7 +82,10 @@ We will answer your questions and help you out with installing or playing FROST.
 FROST can not be thrown into any mod set-up/load order, you have to build your load order around FROST.
 
 [line]
-[url=https://www.buymeacoffee.com/redawt]Support Me on Buy Me A Coffee[/url] or [url=https://www.nexusmods.com/users/47725848]through Nexus[/url]!
+
+[url=https://www.buymeacoffee.com/redawt][img]https://i.imgur.com/tZKZJsn.png[/img][/url]
+
+You can support me on Buy Me A Coffee or [url=https://www.nexusmods.com/users/47725848]through Nexus[/url]!
 
 [line]
 [size=5][b][b]Community Links[/b][/b][/size]
@@ -107,7 +110,6 @@ Fallout 4 VR is not compatible with FROST.
 
 [line]
 [size=5][b][img]https://fontmeme.com/permalink/220506/8a02bca103efbce75c8b53270572a651.png[/img][/b][/size]
-
 [size=2]
 [list][*]Naugrim04 (Dude, you are awesome!)
 [*]The FROST Discord squad (you guys rock!)
@@ -160,8 +162,12 @@ Fallout 4 VR is not compatible with FROST.
 [*]Titaa for the COTC Main Menu Video replacer
 [*]... and many more!
 [/list][/size]
+
 [line]
 [center]
+
 [youtube]iUhYof-yRcs[/youtube]
+
 [/center]
 [/size]
+
