@@ -1,0 +1,223 @@
+[img]https://staticdelivery.nexusmods.com/mods/1151/images/65485/65485-1667415917-676461962.png[/img]
+
+[line]
+
+[img]https://fontmeme.com/permalink/220506/93b220d0fd84b69a34044c5cdbfd218a.png[/img]
+
+[size=4][b]What is FROST?[/b][/size]
+
+[size=3]FROST is the successor to the much beloved and much hated [url=http://www.nexusmods.com/newvegas/mods/57927/?]DUST Survival Simulator[/url] for Fallout: New Vegas. 
+The goal is to transform the world of Fallout 4 into a freeform survival game with an emphasis on lore and visual storytelling.
+
+Set in the years following the Great War of 2077 during a Nuclear Winter, you will see new lore,
+challenging new enemies, and many overhauled gameplay systems.
+Many areas in the game world have been visually overhauled as well.
+FROST stays true to the Fallout lore and is very lore-friendly.[/size]
+
+[b][size=4]What is the Frost Official Updates mod?[/size][/b]
+
+[size=3]This mod continues the development of FROST. My mod was designed to be used together with Frost Plus and Frost Cell fixes﻿.
+It makes FROST more balanced and removes certain exploits, bugs and oversights, and while adding a lot more features.
+
+With over 20.000 edits this mod is one of the largest mods for Fallout 4.
+This mod does so many things that it could be split into 30-50 different mods.[/size]
+
+[line]
+
+[img]https://fontmeme.com/permalink/220506/b8ae41eee126db385814e3b266b546c4.png[/img]
+
+[size=3]Check out the [url=https://www.nexusmods.com/fallout4/mods/65485?tab=articles]Articles Section[/url] if you want to know more![/size]
+
+[list]
+[*][size=3]A Hallucination and overhaul of FROST’s Sanity System[/size]
+[*][size=3]New gameplay elements and changes[/size]
+[*][size=3]New perks + changes to existing perks to enable more character builds[/size]
+[*][size=3]Dozens of new items[/size]
+[*][size=3]New lore, journals, stories, terminals and notes Balance changes[/size]
+[*][size=3]Adds content that was originally planned to be added to FROST[/size]
+[*][size=3]Fixes a ton of bugs and oversights  of FROST (and Bethesda)[/size]
+[*][size=3]And a lot more![/size]
+[/list][size=3]
+[/size]
+[size=3]It took several hundreds hours to make this mod, listing everything in detail is impossible[/size]
+
+[line]
+
+[img]https://fontmeme.com/permalink/221124/c4540f4ca95d97c3fc51d65e4934250e.png[/img]
+[size=3]
+[b]The following things are hard requirements and must be installed:[/b]
+
+[/size][list]
+[*][size=3]Fallout 4 Script Extender[/size]
+[*][size=3]Frost Survival Simulator[/size]
+[*][size=3]Automatron DLC[/size]
+[*][size=3]Nuka-World DLC[/size]
+[*][size=3]Far Harbor DLC[/size]
+[*][size=3]Wasteland Workshop DLC[/size]
+[*][size=3]Vault-Tec Workshop DLC[/size]
+[*][size=3]Contraptions Workshop DLC[/size]
+[/list][size=3]
+ The [url=https://redawt.github.io/BelowZeroGuide]Below Zero Guide[/url] explains how to make a proper Frost Load Order and Set-up﻿!
+Please use the guide if you want to install and play FROST! 
+[/size][size=3]
+
+[/size]
+
+[line]
+
+[img]https://fontmeme.com/permalink/221124/b01469eecaf844591d618190a0974bc6.png[/img][size=4]
+
+Besides the hard requirements mentioned above, this mod optionally support several other mods:
+
+[/size][list]
+[*][size=4]Mod Configuration Menu (for a FROST MCM Menu)[/size]
+[*][size=4]PipBoy Tabs (for a PipBoy Tab to display Sanity)[/size]
+[*][size=4]LevelUpMenuEx (for more Perks)[/size]
+[*][size=4]Campsite[/size]
+[*][size=4]CBBE & Bodyslide[/size]
+[/list][size=4]
+Check out the [url=https://www.nexusmods.com/fallout4/mods/65485?tab=articles]Articles Section[/url] if you want to know more!
+
+[/size]
+
+[line]
+
+[img]https://fontmeme.com/permalink/220506/1bb5929e9c0c337973e35db355ee9f57.png[/img]
+
+
+[size=3]If you are making a FROST load order, it is mandatory that you read the [url=https://redawt.github.io/BelowZeroGuide/]Below Zero FROST Modding Guide[/url] first!
+Follow the guide in order to make a proper FROST setup!
+
+The guide includes installation instructions for this mod.
+The guide also has two versions, an extensive Recommended Guide, and a smaller 5 minute Basic Guide.
+If you need help or have questions, feel free to visit the [url=https://discord.com/invite/BaKsm7Fn4A]FROST Discord Server[/url].
+We will answer your questions and help you out with installing or playing FROST.
+
+FROST can not be thrown into any mod set-up/load order, you have to build your load order around FROST.[/size]
+
+[line]
+
+[url=https://www.buymeacoffee.com/redawt][img]https://i.imgur.com/tZKZJsn.png[/img][/url]
+
+[size=4]You can also donate [url=https://www.nexusmods.com/users/47725848]through Nexus﻿[/url] to support me.
+
+[/size][size=5][b]Community Links:[/b][/size][size=4]
+
+[/size][list]
+[*][size=4][url=https://www.reddit.com/r/fodust]Reddit[/url] [/size]
+[*][size=4][url=https://discord.com/invite/BaKsm7Fn4A]Discord[/url]﻿ [/size]
+[*][size=4][url=http://frost-survival-simulator.wikia.com/wiki/FROST_Survival_Simulator_Wiki]FROST Wiki[/url][/size]
+[/list]
+
+[line]
+
+[img]https://fontmeme.com/permalink/221124/d777351746d2503835603e8393be39c2.png[/img]
+
+[size=3]Read these Articles if you want to know more about the (in-)compatibilities:
+
+[/size][list]
+[*][size=3][url=https://www.nexusmods.com/fallout4/articles/4050]Optional Mod Support﻿[/url][/size]
+[*][size=3][url=https://www.nexusmods.com/fallout4/articles/4116]Incompatible Mods[/url][/size]
+[*][size=3]﻿[url=https://www.nexusmods.com/fallout4/articles/4054]Mods that have been merged into this mod﻿[/url][/size]
+[*][size=3][url=https://www.nexusmods.com/fallout4/articles/4115]Outdated FROST mods that should not be used anymore﻿[/url][/size]
+[/list][size=3]
+Creation Club mods besides Paint Job mods are not recommended to be used!
+
+This mod is not compatible with Fallout 4 VR.[/size]
+
+[line]
+
+[img]https://fontmeme.com/permalink/220506/2baa39acd4ba8bf693fcc16b8021f727.png[/img]
+
+
+[size=3][b]Q: My game crashes and has bugs, this sucks!
+A: [/b]That sounds like [i]you[/i] messed up your load order and mod set-up. Please make sure to follow our
+FROST modding guide. We worked very hard to make FROST as stable as
+possible, if you follow our modding guide you will not experience any crashes at all.
+You can ask us on the FROST Discord for help if you need it, we will help you fix issues with your FROST load order.
+
+
+[b]Q: Will there be a X-Box or PlayStation version of FROST?
+A: [/b]No, because it isn’t possible to port it over properly from a technical perspective.
+
+
+[b]Q: Do I need all of the DLCs mentioned in the “Requirements Section” from above?
+A: [/b]Yes, they are hard requirements. All major DLCs except Creation Club content and the High-Res DLC are required.
+
+
+[b]Q: Will there be a non-DLC version of FROST?
+A: [/b]No, there will not be such a version.
+
+
+[b]Q: Why do I need the mods mentioned in the guide above just to play FROST?
+A:[/b] It isn’t easy to overhaul a game completely with just one plugin/mod.
+There are development and technical reasons to keep certain stuff separated.
+For example, the Frost Cell Fixes has to be kept separate and at the end of the load order because of how
+the engine of Fallout 4 handles performance technologies like preculling.
+
+
+[b]Q: Any Nexus Collection for FROST?
+A: [/b]The Frost Development team explicitly does not endorse or recommend any FROST Nexus Collection as they often have a lot of technical issues and are outdated.
+
+[b]
+Q: Any Wabbajack for FROST?
+A: [/b]Yes, you can use the unofficial [url=https://github.com/St1ck2k/FROST—-Below-Zero-Fallout-4-Wabbajack-Modlist/tree/main]FROST - Below Zero Fallout 4 Wabbajack Modlist[/url] which implements the Recommended Setup from the Below Zero guide. [b]The old and previously featured Stay FROSTy Wabbajack is not available anymore as of April 24th 2024.[/b][/size]
+
+[line]
+
+[img]https://fontmeme.com/permalink/220506/8a02bca103efbce75c8b53270572a651.png[/img]
+
+[list]
+[size=2]- Naugrim04 (Dude, you are fucking awesome!)
+- The FROST Discord squad (you guys rock!)
+- ALDIODERQUIDS
+- JACQ for changes and ideas that she made in JACQ FROST
+- abah for checking the notes and journals
+- Crosstieger for the Doctors Bag assets
+- jacknifelee for the child outfits
+- Abbalovesyou for the child headgear meshes
+- dinosgamez for the Survival Guide retextures
+- deleted150604 for the synth armor retextures
+- Xerophthalmia for the new gas mask textures
+- HoneyDrops for the bear armor mesh fix
+- Special thanks to Gourmetrix for the Nucleus Overhaul
+- GhanimaAtreides for the Red Alliance Retexture
+- Veav for the skeleton .nif models
+- HalcyonAndOn for renaming certain notes with too generic names
+- meigong119﻿ for the killmove and melee changes
+- Defalt for the Winterized Gunner Outfits﻿
+- DesertRanger111﻿ and Rigell﻿ for editing the Gunner Outfits, making or reworking textures, meshes, and for being awesome
+-  ﻿Rigell﻿ for the glasshouse meshes, textures and scripts
+- XenonsSpork﻿ for the Travis Begone soundfiles
+- DeathWrench﻿ for the muted Travis introductions
+- fadingsignal for the Military MREs﻿ assets
+- KanonKing
+- Jaberkaty
+- certainOrder
+- krrptd
+- Hod Toward and Sethebda for all the CK crashes…
+- Cameron McKinley because his music inspired me and kept me motivated
+- People who post CK tutorials on YouTube
+- Everyone from the FROST Discord Server (Patchmaster, DSJ, clantz, krrptd, stayla, Old’ Un, Lonewanderer345 and many more)
+- textures.com
+- jefw
+- chacomain for the idea to add a compatability ini file for PipBoy Tabs
+- Old’Un
+- Argonn
+- Alison
+- grewdawg
+- Juano
+- Mark Immortell
+- Greslin
+- IceStormNG
+- Samantha (Samcakes)
+- Patchmaster
+- Wanderer
+- Cryss
+- Helen
+- Elise for the New Game Video
+- Titaa for the COTC Main Menu Video replacer[/size][/list]
+
+[line]
+
+[youtube]iUhYof-yRcs[/youtube]

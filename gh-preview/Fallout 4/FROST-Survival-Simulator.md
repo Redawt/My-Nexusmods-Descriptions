@@ -29,7 +29,6 @@ Discover hidden conspiracies, piece together the lore by reading connected journ
 ---
 # ![Installation](https://fontmeme.com/permalink/220506/1bb5929e9c0c337973e35db355ee9f57.png)
 
-
 FROST is a total overhaul of Fallout 4, and therefore can not be put into an arbitrary vanilla-eque mod setup.
 
 Make sure to check out the **FAQ** down below, or to join the [FROST Discord](https://discord.com/invite/BaKsm7Fn4A) if you have any questions.
@@ -91,7 +90,6 @@ The following FROST mods are either badly made, outdated, or redundant. It is no
 ---
 # ![Features](https://fontmeme.com/permalink/220506/b8ae41eee126db385814e3b266b546c4.png)
 
-
 ### Lethal Combat
 
 Enemies will kill you in just a few hits and you will do the same to them. 
@@ -152,7 +150,6 @@ FROST takes place just after the Great War. As such, the lore, world, and enemie
 
 ---
 # ![FAQ](https://fontmeme.com/permalink/220506/2baa39acd4ba8bf693fcc16b8021f727.png)
-
 
 We currently only offer support for the downgraded version of Fallout 4 (= version 1.10.163). There is a more extensive FAQ and other information sources over at the FROST Discord. Make sure to check them out as well if you want to know more!
 
@@ -224,7 +221,6 @@ Further common questions and their answers can be found on the [FROST Discord in
 ---
 # ![Disclainer](https://fontmeme.com/permalink/220506/46222b55e53a585a9adeed6110b6415a.png)
 
-
 FROST is now community-driven, and the add-ons created by the community have helped complete the project.
 
 If you dislike certain design choices, join the FROST Discord and share your thoughts respectfully.
@@ -239,7 +235,6 @@ Thank you.
 
 
 ### **TEXTURES & MESHES**
-
 
 * MADMAX713 – Raider Overhaul assets  
 * Horus05 – Commonwealth Scavvers assets  
@@ -257,11 +252,9 @@ Thank you.
 
 ### **SCRIPTING**
 
-
 * Dan – Hallucination Scripting Extraordinaire  
 
 ### **WRITERS**
-
 
 * Sojak246  
 * Your401Kplan  
@@ -271,11 +264,9 @@ Thank you.
 
 ### **MUSIC**
 
-
 * [Cameron McKinley – "Begin Again" Main Title arrangement](https://soundcloud.com/cameron-mckinley-travels)
 
 ### **PAGE MANAGEMENT**
-
 
 * RedMetalShield (since 2021)
 

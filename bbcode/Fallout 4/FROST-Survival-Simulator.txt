@@ -2,9 +2,10 @@
 [img]https://staticdelivery.nexusmods.com/mods/1151/images/18898-8-1496817764.jpg[/img]
 
 [size=6][b][img]https://fontmeme.com/permalink/220506/c2837c9ed241dd13a7df98227c902551.png[/img][/b][/size]
+
 [size=5] [url=https://www.reddit.com/r/fodust]Reddit[/url]    [url=https://discord.com/invite/BaKsm7Fn4A]Discord[/url]    [url=http://frost-survival-simulator.wikia.com/wiki/FROST[i]Survival[/i]Simulator_Wiki]Wiki[/url] [/size]
 
-[youtube]https://www.youtube.com/watch?v=iUhYof-yRcs[/youtube]
+[youtube]iUhYof-yRcs[/youtube]
 
 [size=5] [b][i]Will you survive the Nuclear Winter?[/b][/i] [/size]
 
@@ -12,6 +13,7 @@
 
 [line]
 [size=6][b][img]https://fontmeme.com/permalink/220506/93b220d0fd84b69a34044c5cdbfd218a.png[/img][/b][/size]
+
 [b]FROST[/b] is the successor to the much beloved and much hated [url=http://www.nexusmods.com/newvegas/mods/57927/?]DUST Survival Simulator[/url] for [i]Fallout: New Vegas[/i].
 
 The goal of [b]FROST[/b] is to transform the world of Fallout 4 into a free-form survival game with an emphasis on lore and visual storytelling. This mod will offer a mix of survival mechanics and realism with unleveled NPCs and loot. Most vanilla NPCs have been removed or changed beyond recognition. Set in the years following the Great War of 2077, you will see new lore, challenging new enemies, and many overhauled gameplay systems. Many areas in the game world have been visually overhauled as well.
@@ -26,15 +28,18 @@ Discover hidden conspiracies, piece together the lore by reading connected journ
 
 [line]
 [size=6][b][img]https://fontmeme.com/permalink/220506/1bb5929e9c0c337973e35db355ee9f57.png[/img][/b][/size]
+
 FROST is a total overhaul of Fallout 4, and therefore can not be put into an arbitrary vanilla-eque mod setup.
 
 Make sure to check out the [b]FAQ[/b] down below, or to join the [url=https://discord.com/invite/BaKsm7Fn4A]FROST Discord[/url] if you have any questions.
 
 [size=5][b]Recommended Installation[/b][/size]
+
 It is highly recommended to read [url=https://redawt.github.io/BelowZeroGuide/]the Below Zero Guide[/url] in order to make a proper FROST setup. 
 All you need to know is mentioned in the guide.
 
 [size=5][b]Not-Recommended Installation[/b][/size]
+
 It is way easier if you just use the Below Zero Guide to make a FROST setup.
 
 We recommend using a separate [color=#d98f40][b]Vortex Profile[/b][/color] or [color=#d98f40][b]MO2 Instance[/b][/color] for making a FROST setup. 
@@ -55,6 +60,7 @@ In order to have a proper FROST setup, the absolute minimum requirements are:
 [/list]
 [line]
 [size=6][b][img]https://fontmeme.com/permalink/240103/a01a33a993673744889e3412449de868.png[/img][/b][/size]
+
 FROST is a total overhaul of your gameplay experience, and I mean total.
 Just about anything that alters stats, leveled lists, weather or NPCs will conflict and requires a patch. 
 However, a lot of mods don't conflict with FROST. You can read more about compatible mods [url=https://redawt.github.io/BelowZeroGuide/guide/adding-more-mods/]here[/url].
@@ -63,14 +69,17 @@ Keep in mind that FROST is set 200 years before vanilla Fallout 4, so most quest
 The Below Zero Guide already contains additional optional mods that you might want to use, and which are compatible with FROST or have a patch. Additionally, the guide has a [url=https://redawt.github.io/BelowZeroGuide/additional-mods/]section with other optional recommended and compatible mods[/url].
 
 [size=5][b]F4SE .dll mods[/b][/size]
+
 FROST requires the old-gen version of Fallout 4 (version  [b]1.10.163[/b]). 
 If you want to use F4SE mods with .dll files, you need to check if they work with the old-gen version or download an older version of the respective F4SE .dll mod.
 Luckily, almost all F4SE .dll mods have a mod version that works with the old-gen version of Fallout 4.
 
 [size=5][b]Creation Club Mods[/b][/size]
+
 FROST is not compatible with most Creation Club quest mods, we recommend to not use any CC mods together with FROST unless they are simple weapon/armor skin mods.
 
 [size=5][b]Mods to avoid[/b][/size]
+
 The following mods are incompatible and should not be used with FROST:  
 [url=https://www.nexusmods.com/fallout4/articles/3393]https://www.nexusmods.com/fallout4/articles/3393[/url]
 
@@ -80,7 +89,9 @@ The following FROST mods are either badly made, outdated, or redundant. It is no
 
 [line]
 [size=6][b][img]https://fontmeme.com/permalink/220506/b8ae41eee126db385814e3b266b546c4.png[/img][/b][/size]
+
 [size=4][b]Lethal Combat[/b][/size]
+
 Enemies will kill you in just a few hits and you will do the same to them. 
 Your best bet is to take cover and to use everything at your disposal. 
 Chems, guns, melee weapons and explosives are all very important if you want to win fights.
@@ -88,18 +99,23 @@ Chems, guns, melee weapons and explosives are all very important if you want to 
 You do do less damage than your enemies at level 1. Take perks, git gud. As would make sense in real life, the player and all human NPCs receive the same damage... with guns and explosives. Melee weapons depend entirely on the skill of the user. When you start the game you are a malnourished, half-dead prisoner. You're weak, you don't do as much damage with a pipe as a hardened Cannibal or Survivor would do. Taking the appropriate perks and equipment will put you on the same level as your enemies. Play smart, use everything at your disposal!
 
 [size=4][b]Unleveled Loot and Enemies[/b][/size]
+
 At level one you have a chance of running into Level 50 Deathclaws and veteran enemies. It's rare, but possible. At the same time, you also have a chance to find guiding missile launchers and heavy combat armor. Don't get discouraged if you run into an enemy that is extremely difficult to kill. It may be out of your league to kill at the current moment, but that doesn't mean that everything is. As you level up, the world will not level with you. You'll be more able to handle situations you were once forced to run from.
 
 [size=4][b]Scarcity[/b][/size]
+
 Ammo, meds, and other useful things are very rare. To find them in large quantities you'll have to go to where it'd make sense for them to be (i.e. medicine is more often found in hospitals). Get familiar with crafting recipes, and craft explosives, ammo and medicine in order to survive. 
 
 [size=4][b]Radiation[/b][/size]
+
 Radiation is now far more deadly. Not only are all sources of radiation amped up, the new Atmospheric Radiation system gives all players constant rads if they dare to explore the outdoors without a protective gas mask. 
 
 [size=4][b]Settlement Overhaul[/b][/size]
+
 Hi-tech workshop items require schematics to build, which can be scavenged and collected in the world. Settlements have also been nerfed to be much more difficult to protect and will function more as personal bases. Recruiting settlers is more difficult, and requires more investments into Charisma.
 
 [size=4][b]Gameplay Adjustments[/b][/size]
+
 Enemies use ammo, and vary in accuracy. Lower level enemies will spew rounds to the wind while expert marksmen will take you down from across the battlefield with one well-placed headshot. 
 No more god-like weapons (except for a handful of uniques)! 
 You'll use what you can get your hands on and be happy with it. 
@@ -108,18 +124,22 @@ You will only carry the necessities.
 Enemies have special abilities and stats, making them all unique in some form, and require different strategies.
 
 [size=4][b]Perk Overhaul[/b][/size]
+
 No more simply picking meat off of bodies! Invest in the Hunter perk to harvest goods from your kills. 
 Or take the edited Rifleman, Commando, and Gunslinger perks to increase your range and accuracy with their respective guns.
 
 [size=4][b]Reworked Items and New Gear[/b][/size]
+
 New weapons, armors and items have been added for more diverse factions, enemies and gameplay. 
 Existing items have been altered to provide a more grounded experience.
 
 [size=4][b]Reworked and New Locations[/b][/size]
+
 FROST adds newly implemented Subway System with over 22 large new cells (including 1 friendly city) that connects each of the vanilla Fallout 4 subway stations. Use the subway tunnels to travel between key points.
 Several locations have been overhauled and changed.
 
 [size=4][b]Lore And Stories[/b][/size]
+
 FROST takes place just after the Great War. As such, the lore, world, and enemies reflect this change. 
 
 [list][*]Hundreds of new notes and terminal entries detailing the extensive new lore of the world. Follow notes and discover stories from survivors, cannibals and remnants of the US Military
@@ -130,6 +150,7 @@ FROST takes place just after the Great War. As such, the lore, world, and enemie
 [/list]
 [line]
 [size=6][b][img]https://fontmeme.com/permalink/220506/2baa39acd4ba8bf693fcc16b8021f727.png[/img][/b][/size]
+
 We currently only offer support for the downgraded version of Fallout 4 (= version 1.10.163). There is a more extensive FAQ and other information sources over at the FROST Discord. Make sure to check them out as well if you want to know more!
 
 [size=4][b][color=#d98f40][b]Q: Does this mod require a New Game/Save file?[/b][/color][/b][/size]
@@ -199,6 +220,7 @@ Further common questions and their answers can be found on the [url=https://disc
 
 [line]
 [size=6][b][img]https://fontmeme.com/permalink/220506/46222b55e53a585a9adeed6110b6415a.png[/img][/b][/size]
+
 FROST is now community-driven, and the add-ons created by the community have helped complete the project.
 
 If you dislike certain design choices, join the FROST Discord and share your thoughts respectfully.
@@ -210,7 +232,10 @@ Thank you.
 
 [line]
 [size=6][b][img]https://fontmeme.com/permalink/220506/8a02bca103efbce75c8b53270572a651.png[/img][/b][/size]
+
+
 [size=4][b][b]TEXTURES & MESHES[/b][/b][/size]
+
 [list][*]MADMAX713 – Raider Overhaul assets  
 [*]Horus05 – Commonwealth Scavvers assets  
 [*]tookiejones – Survival Go Bags assets  
@@ -226,9 +251,11 @@ Thank you.
 [*]DSJ – Federation/Alliance Armors, Alliance/Themis Flags  
 [/list]
 [size=4][b][b]SCRIPTING[/b][/b][/size]
+
 [list][*]Dan – Hallucination Scripting Extraordinaire  
 [/list]
 [size=4][b][b]WRITERS[/b][/b][/size]
+
 [list][*]Sojak246  
 [*]Your401Kplan  
 [*]SeraphimDreams  
@@ -236,9 +263,11 @@ Thank you.
 [*]Dman51  
 [/list]
 [size=4][b][b]MUSIC[/b][/b][/size]
+
 [list][*][url=https://soundcloud.com/cameron-mckinley-travels]Cameron McKinley – "Begin Again" Main Title arrangement[/url]
 [/list]
 [size=4][b][b]PAGE MANAGEMENT[/b][/b][/size]
+
 [list][*]RedMetalShield (since 2021)
 [/list]
 [/font] [/size]

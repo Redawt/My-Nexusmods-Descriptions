@@ -1,0 +1,33 @@
+[font=Arial] [size=3] [center] [line]
+[size=6][b][color=#d98f40][b]Tactical Thermonuclear Gnomes[/b][/color][/b][/size]
+
+[youtube]YPW_HeOHA1E[/youtube]
+
+[size=5][b][color=#d98f40][b]Happy April fools![/b][/color][/b][/size]
+
+[/center]
+
+[line]
+[size=5][b]Description[/b][/size]
+
+This mod contains two plugins. One changes the [color=#d98f40][b]62 garden gnomes[/b][/color] in Far Harbor. 
+They now explode in a [color=#d98f40][b]nuclear fashion[/b][/color] if they get damaged.
+I recommend to install & forget this mod, so that you eventually wonder where that random explosion came from
+when wandering through Mt. Desert Island.
+
+The other plugin adds a [color=#d98f40][b]Tactical Thermonuclear Gnome grenade[/b][/color] that you can craft at the Chemistry Workbench.
+
+The plugins are esl-flagged esp files, so they don't count towards the plugin limit.
+
+They are also independent from each other, you can enable both or only one of them.
+
+[line]
+[size=5][b]Credits[/b][/size]
+
+[list][*]My girlfriend for sending me the meme
+[*]Bethesda
+[*]xEdit Team
+[*]The guy who made the Tactical Thermonuclear Gnomes meme
+[/list]
+[line]
+[/size] [/font]

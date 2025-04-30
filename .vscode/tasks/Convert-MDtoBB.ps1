@@ -55,6 +55,7 @@ $BBcodereplacements = @(
     # Center: -> <- (multiline)
     @('->(?s)(.*?)<-', "[center]`$1[/center]"),
     # Font Sizes (Nexus, multiline)
+    @('-small-(?s)(.*?)-small-', "[size=2]`$1[/size]"),
     @('-normal-(?s)(.*?)-normal-', "[size=3]`$1[/size]"),
     @('-big-(?s)(.*?)-big-', "[size=4]`$1[/size]"),
     @('-very big-(?s)(.*?)-very big-', "[size=5]`$1[/size]"),
@@ -81,7 +82,9 @@ $BBcodereplacements = @(
     # @('==([^=]+)==', "[color=#ff7700][b]`$1[/b][/color]"),
     @('==([^=]+)==', "[color=#d98f40][b]`$1[/b][/color]"),
     # Embedded Youtube Video (GitHub style)
-    @("(?m)^(?:\r?\n)?(https:\/\/(?:www\.)?youtube\.com\/watch\?v=[\w-]+|https:\/\/youtu\.be\/[\w-]+)(?:\r?\n)?", "`n[youtube]`$1[/youtube]`n"),
+    # @("(?m)^(?:\r?\n)?(https:\/\/(?:www\.)?youtube\.com\/watch\?v=[\w-]+|https:\/\/youtu\.be\/[\w-]+)(?:\r?\n)?", "`n[youtube]`$1[/youtube]`n"),
+    # @("(?m)^https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]{11})$", "`n[youtube]`$1[/youtube]`n"),    
+    @("(?m)https:\/\/www\.youtube\.com\/watch\?v=(.+?)\s*?$", "[youtube]`$1[/youtube]"),
     # Spoiler Tags
     @('\|\|(?s)(.*?)\|\|', "[spoiler]`$1[/spoiler]"),
     # Quotes
@@ -92,6 +95,7 @@ $BBcodereplacements = @(
 
 $MDcodereplacements = @(
     @('->(?s)(.*?)<-', "`$1"),
+    @('-small-(?s)(.*?)-small-', "`$1"),
     @('-normal-(?s)(.*?)-normal-', "`$1"),
     @('-big-(?s)(.*?)-big-', "`$1"),
     @('-very big-(?s)(.*?)-very big-', "`$1"),
