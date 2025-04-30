@@ -1,0 +1,27 @@
+[center] [size=6] 
+[size=6][b][img]https://fontmeme.com/permalink/220506/c2837c9ed241dd13a7df98227c902551.png[/img][/b][/size]
+[b][url=https://www.reddit.com/r/fodust]Reddit[/url][/b]    [b][url=https://discord.com/invite/BaKsm7Fn4A]Discord[/url][/b]    [b][url=http://frost-survival-simulator.wikia.com/wiki/FROST[i]Survival[/i]Simulator_Wiki]Wiki[/url][/b]
+[/size] [size=5]
+[b][url=https://redawt.github.io/BelowZeroGuide/]Read this guide[/url][/b] to set up a FROST load order properly!
+[/size] [/center]
+
+[line]
+[size=4]
+[size=5][b][b][color=#d98f40][b]Before you post something here[/b][/color][/b][/b][/size]
+
+[b]1.[/b] Please read the description and check out the article section before commenting.  
+[b]2.[/b] If you still have questions, head over to the FROST Discord for further help.  
+[b]3.[/b] If you want to report a technical issue, [i][b]please post your load order[/b][/i] as a link to Pastebin or visit the [url=https://discord.com/invite/BaKsm7Fn4A]FROST Discord[/url] and post the problem there.
+[b]4.[/b] Before reporting a bug, a crash, or asking us to check your load order, use the [b][url=https://redawt.github.io/BelowZeroGuide/guide/load-order-setup/#automatic-load-order-checker]Automatic Load Order Checker[/url][/b] first!    
+[b]5.[/b] Keep the posts section free of spoilers or use Nexus' spoiler tag system.
+
+
+[size=5][b][b][color=#d98f40][b]Note about the "Next Gen" Update[/b][/color][/b][/b][/size]
+
+FROST only works properly with the [b]downgraded version of Fallout 4[/b], for the following reasons:
+[list][*]Many mod authors who made F4SE mods decided to only provide support for the downgraded versions  
+[*]The Next Gen version of Fallout 4 has severe bugs, including [b]FPS issues if mods are used that edit many NPCs[/b]. 
+[*]The downgraded version has the [b]best compatibility[/b] with many essential mods  
+[*]Many mod authors cannot upgrade their F4SE mods properly due to engine-level changes
+[/list]
+[/size]

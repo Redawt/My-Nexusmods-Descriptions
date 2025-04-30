@@ -1,0 +1,256 @@
+[center][font=Arial][color=#ff7700][size=5][img]https://staticdelivery.nexusmods.com/mods/1151/images/18898-8-1496817764.jpg[/img]﻿
+[img]https://fontmeme.com/permalink/220506/c2837c9ed241dd13a7df98227c902551.png[/img]﻿[/size][/color][/font][font=Arial][size=2][b]
+
+[size=6][url=https://www.reddit.com/r/fodust]Reddit[/url]    [url=https://discord.gg/baKWaFM][/url][url=https://discord.com/invite/BaKsm7Fn4A][/url][url=https://discord.com/invite/BaKsm7Fn4A]Discord[/url]﻿﻿    [url=http://frost-survival-simulator.wikia.com/wiki/FROST_Survival_Simulator_Wiki]Wiki[/url][/size][/b][/size][/font][/center][font=Arial][size=2][center]
+﻿[youtube]iUhYof-yRcs[/youtube]﻿[/center]
+[center][size=6][b][i]Will you survive the Nuclear Winter?[/i][/b][/size][/center]
+
+
+[/size][/font]
+[left][font=Arial][img]https://fontmeme.com/permalink/220506/93b220d0fd84b69a34044c5cdbfd218a.png[/img]﻿[/font][/left][font=Arial]
+[/font][size=4][b]FROST[/b] is the successor to the much beloved and much hated [url=http://www.nexusmods.com/newvegas/mods/57927/?]DUST Survival Simulator[/url] for [i]Fallout: New Vega[/i]s. [/size][size=3]
+
+[/size][size=4]The goal of [b]FROST[/b] is to transform the world of Fallout 4 into a free-form survival game with an emphasis on lore and visual storytelling. This mod will offer a mix of survival mechanics and realism with unleveled NPCs and loot. Most vanilla NPCs have been removed or changed beyond recognition. Set in the years following the Great War of 2077, you will see new lore, challenging new enemies, and many overhauled gameplay systems. Many areas in the game world have been visually overhauled as well.
+
+Do not expect a 100% realistic gameplay, but a more realistic, difficult and fun experience than the vanilla game. Due to how Fallout 4's engine and AI was designed, FROST can not offer a 100% realistic experience, but a well thought out trade-off of realism, survival mechanics and unleveled loot and NPCs.
+
+Set in the years following the Great War of 2077, you will see new, replaced lore, challenging new enemies, and many overhauled gameplay systems. Many areas in the game world have been visually overhauled as well.
+
+In [b]FROST[/b], the goal is less about completing quests and joining factions. It tells its stories via visual storytelling and quests. Although [b]FROST[/b]'s focus is the survival aspect, it has a main story, several side stories, a few voiced characters and quests, and a lot of other things. 
+
+
+Discover hidden conspiracies, piece together the lore by reading connected journals and notes, and learn the fate and history of the survivors and factions that are trying to survive the Nuclear Winter in the year 2082 (five years after the Great War).
+[b] [/b][/size]
+
+[left][font=Arial]
+
+[img]https://fontmeme.com/permalink/220506/1bb5929e9c0c337973e35db355ee9f57.png[/img]
+[/font][size=3][/size][size=4]
+[b][size=5]Guide for setting up FROST[/size][/b]﻿
+[font=Arial]It is highly recommended to read [url=https://redawt.github.io/BelowZeroGuide/]this guide[/url][b]﻿ [/b]on how to make a proper FROST load order. You will probably do something wrong if you don't read the guide! Don't worry, the guide is split into two guides, one of them is short and very basic in case that you just want to try out FROST or want to set it up as quickly as possible.[/font][/size][/left]
+[font=Arial][left][size=5][b]Installation[/b][/size][/left][left][size=4]FROST can simply installed with a mod manager of your choice, we recommend to use MO2.
+You need to use the following mods to make a proper FROST setup. [b]This stuff is also covered by the[url=https://redawt.github.io/BelowZeroGuide/] guide[/url]﻿ mentioned above.[/b] If you skip those mods, you will miss a lot of content and bug fixes. Please install them[/size][size=3]. 
+[/size]
+[list]
+[*][size=4][url=https://www.youtube.com/watch?v=NkKFHjY7o-I]Fallout 4 Script Extender[/url]﻿[/size]
+[*][size=3][size=4][url=https://www.nexusmods.com/fallout4/mods/4598]Unofficial Fallout 4 Patch[/url][/size][/size]
+[*][size=3][size=4][url=https://www.nexusmods.com/fallout4/mods/18898?tab=files]FROST Survival Simulator[/url]﻿[/size][/size]
+[*][size=4][url=https://www.nexusmods.com/fallout4/mods/65485]FROST Official Updates (Redux)﻿[/url]﻿[/size]
+[*][size=4][b][url=https://www.nexusmods.com/fallout4/mods/48847]FROST Plus[/url][/b][/size]
+[*][size=4][url=https://www.nexusmods.com/fallout4/mods/57372/?tab=files]FROST UFO4P Compatibility Patch[/url][/size]
+[*][i][url=https://www.nexusmods.com/fallout4/mods/59652?tab=files][size=4]FROST Cell Fixes (FCF)[/size][/url][/i]
+[/list]
+[size=4]You also need to downgrade your game via the Simple Downgrader mod to game version 1.10.163.
+If you install F4SE-based mods which have a .dll file, you also need to download the right versions of those mods which are compatible with the Old-Gen version of Fallout 4. You also need to remove the Creation Club (CC) mods which come with the Next-Gen update.
+All those steps are also mentioned in the Below Zero guide.
+[/size][i][url=https://www.nexusmods.com/fallout4/mods/59652?tab=files][/url][/i][size=3][size=4][b][size=5]"Why do I need all of those mods?"[/size][/b][/size]
+See the FAQ below!
+[/size][font=Arial][i][url=https://www.nexusmods.com/fallout4/mods/59652?tab=files]
+[/url][/i][size=3][size=4][b][size=5]"Which DLCs do I need?"[/size][/b][/size]
+Far Harbor, Automatron, Nuka-World, Vault-Tec Workshop, Wasteland Workshop and Contraptions Workshop. Those are hard requirements! CC content and the High-Resolution DLC are not needed and not supported.
+[/size][/font][/left][left][b][size=4][size=5]"I need help!"[/size]
+If you need help, visit the [url=https://discord.com/invite/BaKsm7Fn4A]FROST Discord Server[/url]﻿﻿, and we will gladly help you![/size][/b][/left]
+[/font][font=Arial][left]
+
+[size=4][u][img]https://fontmeme.com/permalink/220506/2f7c9f082755bd27305bbe38259ea270.png[/img]﻿
+[/u][/size][/left][/font][left][font=Arial][size=4][size=3]
+[/size]After you've installed all the mentioned mods, and managed your load order properly like 
+shown in the Installation Section, you can start Fallout 4 and just click "New Game" to start playing FROST. 
+[font=Arial][b][color=#ff7700]The Old Frost Save files are NOT needed any more! [/color][/b][/font][size=3]
+
+[/size][/size][/font][/left][left][/left][font=Arial]
+[left]
+
+
+[img]https://fontmeme.com/permalink/240103/a01a33a993673744889e3412449de868.png[/img]﻿[/left][size=3]
+FROST requires the old-gen version of Fallout 4 (version [font=Arial] 1.10.163[/font]).
+FROST is not compatible with most Creation Club quest mods, we recommend to not use any CC mods together with FROST unless they are simple weapon/armor skin mods.
+
+[/size][left][size=2][b][size=3]FROST is a total overhaul of your gameplay experience, and I mean [i]total[/i]. 
+Just about anything that alters stats, levelled lists, weather or NPCs will conflict and requires a patch.[/size][/b]
+
+
+[size=3]Many mods on the Nexus are compatible with [b]FROST[/b], but a lot of them are not.
+ [size=4][url=https://redawt.github.io/BelowZeroGuide/faq/faq-compatibility]Read this[/url]﻿ [/size]for some general guidelines which mods are compatible or not.
+
+[b]You can't just throw FROST into any load order, you have to build your load order around it.[/b][/size]
+
+
+[size=3][url=http://www.nexusmods.com/fallout4/mods/17491/?]Gas Masks of the Wasteland[/url] is compatible. Be sure to use the FROST patch for it made by krrptd.
+
+The following mods are incompatible and should not be used with FROST:
+[url=https://www.nexusmods.com/fallout4/articles/3393]https://www.nexusmods.com/fallout4/articles/3393[/url]
+
+The following frost mods are either badly made, outdated or redundant. It is not recommended to use them:
+[/size][url=https://www.nexusmods.com/fallout4/articles/3392][size=3]https://www.nexusmods.com/fallout4/articles/3392[/size]
+[/url][/size][/left][center][url=https://www.nexusmods.com/fallout4/articles/3392][/url][/center][center][/center]
+
+[left]
+[img]https://fontmeme.com/permalink/220506/b8ae41eee126db385814e3b266b546c4.png[/img]﻿[/left]
+[left][spoiler]
+[size=6][b][u]Gameplay[/u][/b][/size][size=3]
+
+[/size][size=5][b]Lethal Combat[/b][/size][size=3]
+Enemies will kill you in just a few hits and you will do the same to them. Your best bet is to take cover and not get shot.-IMPORTANT NOTE: In regards to melee- Yes, you do do less damage than your enemies at level 1. Take perks, git gud. As would make sense in real life, the player and all human NPCs receive the same damage... with guns and explosives. Melee weapons depend entirely on the skill of the user. When you start the game you are a malnourished, half-dead prisoner. You're weak and have just woken up from a coma, so OF COURSE you don't do as much damage with a pipe as a hardened Cannibal or Survivor would do. Taking the appropriate perks will put you on the same level as your enemies. After all, they do more damage BECAUSE they have these perks. Please realize this before you froth at the mouth and start screaming "unfair!". It is fair, you just need to gain some experience.
+
+[/size][size=5][b]Unleveled Loot and Enemies[/b][/size][size=3]
+ At level one you have a chance of running into Level 50 Deathclaws and veteran enemies. It's rare, but possible. At the same time, you also have a chance to find guiding missile launchers and heavy combat armor. Don't get discouraged if you run into an enemy that is extremely difficult to kill. It may be out of your league to kill at the current moment, but that doesn't mean that everything is. As you level up, the world will not level with you. You'll be more able to handle situations you were once forced to run from.
+
+[/size][size=5][b]Scarcity[/b][/size][size=3]
+Ammo, meds, and other useful things are very rare. To find them in large quantities you'll have to go to where it'd make sense for them to be (i.e. medicine is more often found in hospitals).
+
+[/size][size=5][b]Radiation[/b][/size][size=3][b]
+[/b]Radiation is now far more deadly. Not only are all sources of radiation amped up, the new Atmospheric Radiation system gives all players constant rads if they dare to explore the outdoors without a protective gas mask.
+
+[/size][size=5][b]Combat Tweaks[/b][/size][size=3][b]
+[/b]Enemies use ammo, and vary in accuracy. Lower level enemies will spew rounds to the wind while expert marksmen will take you down from across the battlefield with one well-placed headshot. Beware.
+
+[/size][size=5][b]Settlement Overhaul[/b][/size][size=3]
+Hi-tech workshop items require schematics to build, which can be scavenged and collected in the world. Settlements have also been nerfed to be much more difficult to protect and will function more as personal bases. Recruiting settlers is more difficult, and requires more investments into Charisma.
+
+[/size][size=5][b]No Legendaries[/b][/size][size=3][b]
+[/b]No more god-like weapons (except for a handful of uniques)! You'll use what you can get your hands on and be happy with it.
+
+[/size][size=5][b]Carryweight[/b][/size][size=3]
+Carryweight has been dramatically lowered (assuming you're playing on Survival mode and not one of those Easy-mode milk-drinkers). You will only carry the necessities.
+
+[/size][size=5][b]Perk Edits[/b][/size][size=3][b]
+[/b]No more simply picking meat off of bodies! Invest in the Hunter perk to harvest goods from your kills. Or take the edited Rifleman, Commando, and Gunslinger perks to increase your range and accuracy with their respective guns.
+[/size][size=5]
+[b]New Gear[/b][/size][size=3]
+New weapons, armors and items have been added for more diverse factions, enemies and gameplay.
+
+[/size][size=3][b][size=5][font=Arial][size=5][b]And much more![/b][/size][size=3]
+[/size][/font]
+[/size][/b][/size][size=6][u][b]Lore and the World[/b][/u][/size][size=3][u]
+[/u]FROST takes place just after the Great War. As such, the lore, world, and enemies reflect this change. FROST includes...
+-A newly implemented Subway System with over 22 large new cells (including 1 friendly city) that connects each of the vanilla Fallout 4 subway stations 
+-Hundreds of new notes and terminal entries detailing the extensive new lore of the world. Follow notes and discover hidden conspiracies!
+- Find journals and notes about the fates of new and old characters, from the real Nick Valentine to new characters like Arthur Gannon!
+-8 distinct new factions to interact and battle with! These completely replace all vanilla factions.
+-Many revised and edited vanilla cells (WIP)
+[/size]
+[/spoiler][/left]
+[/font][font=Arial]
+
+[left]
+[img]https://fontmeme.com/permalink/220506/2baa39acd4ba8bf693fcc16b8021f727.png[/img]﻿[font=Arial]
+[/font][size=3]
+[font=Arial][b]Note: We currently only offer support for the downgraded version of Fallout 4 (= version 1.10.163), because that is what most of the modding community is supporting/using. FROST has not  been tested by us with the Next Gen Version of Fallout 4, and the weapons/items from the Next Gen version have not been patched for FROST. The Below Zero guide contains instructions for downgrading Fallout 4.[/b][/font][/size]
+
+[size=3][color=#ff7700][b]Q: Does this mod require a New Game/Save file?[/b][/color]
+[b]A:[/b] FROST is a complete overhaul of the game, which means you can't just install it mid-game. 
+You also need to built your load order/mod setup around FROST, or else you will run into problems.
+After installing everything correctly, start the game through your mod manager via F4SE, and select "New Game". The old Frost Save files are not needed anymore (since 2021).
+[/size]
+
+[font=Arial][font=Arial][font=Arial][size=3][color=#ff7700][b]Q: Is there a guide or tutorial on how to make a proper mod setup with FROST in it?[/b][/color][/size][/font][/font]
+[font=Arial][font=Arial][font=Arial][size=3][color=#ff7700][color=#ffffff][b]A:[/b] Yes, we made the[font=Arial][font=Arial][font=Arial][font=Arial][size=3][color=#ff7700][color=#ffffff][url=https://redawt.github.io/BelowZeroGuide/] Below Zero guide[/url] which shows you how to install MO2 and how to install FROST and some additional mods (ranging from bugfixes, performance mods and visual mods).[/color][/color][/size][/font][/font][/font][/font][/color][/color][/size][/font][/font][/font][/font][size=3] It is not mandatory to use MO2 as a mod manager for FROST, Vortex works fine. 
+[b]It is highly recommended to follow the guide to set up FROST![/b][/size][b]
+
+[/b]
+
+[font=Arial][font=Arial][size=3][color=#ff7700][b]Q: Which mod managers can install FROST?[/b][/color][/size][/font][/font]
+[font=Arial][font=Arial][font=Arial][size=3][color=#ff7700][color=#ffffff][b]A:[/b] All popular mod managers (Vortex, MO2, Nexus Mod Manager [Community Edition]) can install and manage FROST. The[url=https://redawt.github.io/BelowZeroGuide/] Below Zero guide[/url]﻿ shows how to install FROST with MO2, but you can also follow the guide and use Vortex, if you already have basic modding knowledge and know how to use Vortex.[/color][/color][/size][/font][/font]
+
+
+[size=3][color=#ff7700][b]Q: Does this work for Fallout 4 VR?
+[/b][/color][/size][/font][font=Arial][size=3][color=#ff7700][color=#ffffff][b]A:[/b] No, FROST doesn't work properly for Fallout 4 VR. The reason is that Bethesda messed up some things for Fallout 4 VR, and the FROST Official Updates (Redux) mod doesn't work for Fallout 4 VR.
+[/color][/color][/size][/font]
+
+[size=3][b][color=#ff7700]Q: My game crashes, this sucks!
+[/color][/b][color=#ff7700][color=#ffffff][b]A:[/b] That means you messed up your load order. Please make sure to follow our FROST modding guide. We worked very hard to make FROST as stable as possible, if you follow our modding guide you will not experience any crashes at all. If you experience any crashes, they are unrelated to FROST, and caused by something else.[/color][/color][b][color=#ff7700] 
+[color=#ffffff]You can also visit the [url=https://discord.gg/baKWaFM]FROST Discord Server[/url]﻿ if you need help[/color]
+
+
+Q: Will there be a X-Box or PlayStation version of FROST?[/color][/b]
+[font=Arial][font=Arial][b]A:[/b] No, because it isn't possible to port it over properly from a technical perspective.
+
+
+[font=Arial][size=3][font=Arial][font=Arial][color=#ff7700][b]Q: Is FROST only about survival and doesn't offer more?[/b][/color][/font][/font][/size][/font]
+[b]A: [/b]Although FROST's focus is to provide a survival experience, it also has new characters, lore, notes, journals and even a main quest. Most of FROSTs story and lore content is told via visual storytelling, terminals and notes.
+
+
+[font=Arial][size=3][font=Arial][font=Arial][color=#ff7700][b]Q: Do I need all of the DLCs mentioned in the "Requirements Section" from above?[/b][/color]
+[b]A:[/b] Yes, they are hard requirements. All mayor DLCs except Creation Club content and the High-Res DLC are required.[/font][/font][/size][/font]
+
+
+[color=#ff7700][b]Q: Will there be a non-DLC version of FROST?[/b][/color]
+[b]A:[/b] No, there will not be such a version.[font=Arial][size=3][font=Arial][font=Arial][font=Arial][size=3][font=Arial][font=Arial]All mayor DLCs except Creation Club content and the High-Res DLC are required.[/font][/font][/size][/font][/font][/font][/size][/font]
+[color=#ff7700][b]
+
+Q: Do pirated versions of Fallout 4 work with FROST?[/b][/color]
+[b]A: [/b]Not really. Pirated versions tent to not work properly with mods.
+Buy the game please, using a pirated version of a game from 2016 is just a dick-move...
+
+
+[color=#ff7700][b]Q: Why do I need the mods above just to play FROST?[/b][/color]
+[/font][/font][b]A:[/b] It isn't easy to overhaul a game completely with just one plugin/mod. 
+There are development and technical reasons to keep certain stuff separated. 
+For example, the Frost Cell Fixes has to be kept separate and at the end of the load order because of how 
+the engine of Fallout 4 handles performance technologies like [b]preculling[/b].
+Other reasons are because the FROST development was split among the FROST developers so that each developer can develop certain aspects of FROST at their own pace. It also isn't really possible that multiple people work properly on the same plugin at the same time.
+
+
+[font=Arial][color=#ff7700][size=3][b]Q: Can I still play the "original" FROST from 2018?
+[/b][/size][/color][/font][/size][font=Arial][size=3][b]A:[/b][/size][/font] Yes, you can. You can still download the save files and just this mod, and play it. However, you will encounter bugs, exploits, severe FPS problems, glitches and in some cases even CTDs. Those were all fixed in the newer development of FROST, which also includes extensive vanilla bug fixes (especially regarding performance). You would also miss out on tons of new content. All changes that have been made to FROST since 2019 are trying to stay as true as possible to Naugrim's original vision for FROST, and even add stuff that he wanted to add, but never did.
+If you don't like certain new changes, feel free to join the FROST Discord Server and mention your suggestions there.
+
+
+[color=#ff7700][size=3][b]Q: Any Nexus Collection for FROST?[/b][/size][/color][b]
+[/b][size=3][b]The Frost Development team explicitly [u]does not[/u] endorse or recommend any FROST Nexus Collection. 
+Most Frost Nexus Collections are broken and beyond repair, and people who made them include broken mods, redundant mods, and conflicting mods, don't update the collections or have no clue how to make proper load orders for Fallout 4.
+[/b][/size]
+
+[font=Arial][size=3][font=Arial][color=#ff7700][b]Q: Any Wabbajack for FROST?[/b][/color][/font]
+Yes, [font=Arial]you can use the [url=https://github.com/St1ck2k/FROST---Below-Zero-Fallout-4-Wabbajack-Modlist/tree/main]FROST - Below Zero Fallout 4 Wabbajack Modlist[/url] which implements the Recommended Setup from the Below Zero guide.[/font][/size][size=3][b] The old and previously featured Stay FROSTy Wabbajack is not available anymore as of April 24th 2024.[/b][/size]
+
+[b][color=#ff7700][size=3]Q: Anything else I need to know?[/size][/color][/b]
+[/font][size=3][b]Further common questions and their answers can be found on the [url=https://discord.com/channels/238420126985224192/1231487815733215242]FROST Discord in the FAQ channel[/url]﻿.
+
+[/b][/size][/left][left][font=Arial]
+[img]https://fontmeme.com/permalink/220506/46222b55e53a585a9adeed6110b6415a.png[/img]﻿[/font][/left]
+
+[left][size=3][font=Arial]FROST is now in the hands of its community. The add-ons which the FROST community made basically "complete" FROST. 
+If you don't like certain design choices, visit the FROST Discord to talk about there.
+If you don't like the FROST and it Add-Ons, please keep in mind that it is a free, amateur production. 
+It did not take years off your life to download them. The design choices are the way they are because that is what we enjoy. Writing us an outraged letter cursing the names of our families probably won't get much changed, but a thoughtful suggestion might. The way in which you interact with other people makes a difference. 
+
+[size=4][b]Thank you.
+
+[font=Arial]
+[/font][/b][/size][/font][/size][font=Arial]
+
+[img]https://fontmeme.com/permalink/220506/8a02bca103efbce75c8b53270572a651.png[/img]﻿
+[size=4][u][/u][/size][/font]
+
+[font=Arial][size=4][b]TEXTURES & MESHES[/b][/size]
+-MADMAX713- Raider Overhaul assets
+-Horus05- Commonwealth Scavvers assets
+-tookiejones- Survival Go-Bags assets
+-textures.com- snow textures
+-Herofonts (dafont.com)- Bronx Bystreets font
+-Jonathan S. Harris (dafont.com)- True Lies font
+-ghostfc3s- Subway Runner station resources (modified- for Concord/Lexington stations).
+-killshots2- Ghoul Masks, Wendigo model/textures, fix for Angel's Hood model.
+-Gogy28- Bear Hunter Armor
+-WickedRhyme- Homemade Explosives
+-m150- TochAndLantern
+-Derpsdale- Spirit Forms assets
+-DSJ- Federation/Alliance Armors, Alliance/Themis Flags
+
+[b][size=4]SCRIPTING[/size][/b]
+-Dan- Hallucination Scripting Extraordinaire
+[size=4][b]
+WRITERS[/b][/size]
+-Sojak246
+-Your401Kplan
+-SeraphimDreams
+-JackOfHearts
+-Dman51
+[b][size=4]
+MUSIC[/size][/b]
+-[url=https://soundcloud.com/cameron-mckinley-travels/]Cameron McKinley[/url]- "Begin Again" Main Title arrangement
+[b][size=4]
+PAGE MANAGEMENT[/size][/b]
+-RedMetalShield[font=Arial] (since 2021)[/font][/font][/left][/font]
