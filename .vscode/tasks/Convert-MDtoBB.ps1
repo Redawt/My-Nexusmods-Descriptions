@@ -38,7 +38,7 @@ function Main() {
 $BBcodereplacements = @(
     # Bold Text
     @('\*\*(.*?)\*\*', "[b]`$1[/b]"),
-    @('__(.*?)__', "[b]`$1[/b]"),
+    @('__(.*?)__', "[u]`$1[/u]"),
     # Heading 3
     # @("(?m)^###\s*(.+?)\s*$", "[size=4][b]`$1[/b][/size]"),
     @("(?m)^###\s*(.+?)\s*?$", "[size=4][b]`$1[/b][/size]"),
@@ -82,7 +82,10 @@ $BBcodereplacements = @(
     @('((?:^\> .*$\n?)+)', "[quote]`n`$1[/quote]\n"),
     # Text Highlighting
     # @('==([^=]+)==', "[color=#ff7700][b]`$1[/b][/color]"),
-    @('==([^=]+)==', "[color=#d98f40][b]`$1[/b][/color]"),
+    @('==lsb=([^=]+)=lsb==', "[color=#c9daf8][b]`$1[/b][/color]"), # light steel blue bold
+    @('=lsb=([^=]+)=lsb=', "[color=#c9daf8]`$1[/color]"), # light steel blue
+    @('=lb=([^=]+)=lb=', "[color=#00ffff]`$1[/color]"), # light blue
+    @('==([^=]+)==', "[color=#d98f40][b]`$1[/b][/color]"), # normal orange-y highlight bold
     # Embedded Youtube Video (GitHub style)
     # @("(?m)^(?:\r?\n)?(https:\/\/(?:www\.)?youtube\.com\/watch\?v=[\w-]+|https:\/\/youtu\.be\/[\w-]+)(?:\r?\n)?", "`n[youtube]`$1[/youtube]`n"),
     # @("(?m)^https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]{11})$", "`n[youtube]`$1[/youtube]`n"),    
@@ -102,10 +105,14 @@ $MDcodereplacements = @(
     @('-big-(?s)(.*?)-big-', "`$1"),
     @('-very big-(?s)(.*?)-very big-', "`$1"),
     @('-extra big-(?s)(.*?)-extra big-', "`$1"),
+    @('__(.*?)__', "<ins>`$1</ins>"),
     # Arial Font
     @('-arial-(?s)(.*?)-arial-', "`$1"),
     # Spoiler Tags
     @('\|\|(?s)(.*?)\|\|', "`$1"),
+    @('==lsb=([^=]+)=lsb==', "**`$1**"), # light steel blue bold
+    @('=lsb=([^=]+)=lsb=', "**`$1**"), # light steel blue
+    @('=lb=([^=]+)=lb=', "**`$1**"), # light blue
     @('==([^=]+)==', "**`$1**")
 )
 

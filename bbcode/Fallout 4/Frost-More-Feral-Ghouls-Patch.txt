@@ -1,0 +1,17 @@
+[size=5][b]Current state of this patch[/b][/size]
+
+THIS MOD IS CURRENTLY NOT WORKING CORRECTLY WITH THE FROST OFFICIAL UPDATES (REDUX) MOD.
+PLEASE WAIT UNTIL I UPDATE THIS MOD!
+
+[line]
+[size=5][b]Description[/b][/size]
+
+A patch to make the [b][url=https://www.nexusmods.com/fallout4/mods/43441]More Feral Ghouls[/url][/b] mod compatible with FROST. 
+This includes leveled character changes, balance changes, immersion changes and more.
+It is compatible with my Frost FGEP Patch.
+
+[line]
+[size=5][b]Technical Information[/b][/size]
+
+This patch was made for [b]version 2.0[/b] of the [b][url=https://www.nexusmods.com/fallout4/mods/43441]More Feral Ghouls[/url][/b] mod.
+You should also use the [url=https://www.nexusmods.com/fallout4/mods/59652]Frost Cell Fixes (FCF) patch[/url] for More Feral Ghouls to fix a small issue with precombines.

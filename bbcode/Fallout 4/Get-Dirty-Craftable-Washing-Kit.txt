@@ -1,0 +1,17 @@
+[size=5][b]Description[/b][/size]
+
+This mod adds two kinds of Hygiene Kit with which you can clean yourself without swimming in a source of water.
+
+Hygiene Kits can be crafted at Cooking Pots, and can be used like other consumable items.
+Your character will unequip most items for a short time, and then re-equip them.
+
+The scripts in this mod simply trigger a controller quest from [b][url=https://www.nexusmods.com/fallout4/mods/29171]Get Dirty (take a bath)[/url][/b].
+
+
+[size=5][b]Technical Information[/b][/size]
+
+This add-on was made for [b][url=https://www.nexusmods.com/fallout4/mods/29171?tab=description]GET DIRTY (take a bath)[/url] version 2.0[/b].
+
+Simply load this mod somewhere after the original mod in your load order.
+
+

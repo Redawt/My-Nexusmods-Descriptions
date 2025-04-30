@@ -1,0 +1,54 @@
+[img]https://fontmeme.com/permalink/230813/2d846cdcda7a231785920386b8e0bcd0.png[/img]
+[img]https://staticdelivery.nexusmods.com/mods/1151/images/73815/73815-1691957207-1944640901.jpeg[/img]
+
+[size=3]
+[size=5][b]🦀 [b][u]Glowing Hatchlings[/u][/b][/b][/size]
+
+This mod changes [url=https://fallout.fandom.com/wiki/Mirelurk[i]%28Fallout[/i]4%29#Mirelurk_hatchling]Mirelurk Hatchlings[/url] so that every 10th Mirelurk Hatchling will spawn as a Glowing Mirelurk Hatchling.
+
+Glowing Mirelurk Hatchlings will spawn from Mirelurk Queens and Mirelurk Eggs, just like normal Mirelurk Hatchlings.
+They will not drop Nuclear Material upon death like other glowing creatures. 
+This is intentional, because Mirelurk Queens spawn infinite Mirelurk Hatchlings if you let them. 
+This could be abused to farm Nuclear Material easily, to avoid this issue they won't drop any Nuclear Material. 
+They are also not stronger than normal Mirelurk Hatchlings, but have the same radiation aura as Glowing Radroaches.
+
+
+
+[size=5][b]📜 [b][u]Load Order[/u][/b][/b][/size]
+
+You need to load my mod after [b][url=https://www.nexusmods.com/fallout4/mods/4598]Unofficial Fallout 4 Patch.esp[/url][/b], and before any mods that add/regenerate Precombines like [b][url=https://www.nexusmods.com/fallout4/mods/46403]PRP[/url][/b].
+This mod doesn't break Precombines or touches them in any way, loading mods before Precombines mods is simply a good practice.
+So basically load it where you would load any other mod in your load order.
+
+This is not an esl-flagged esp file, as this plugin can't be saved as an esl file or esl-flagged file according to xEdit. It will count towards your load order plugin limit.
+ 
+
+
+[size=5][b]⚠️ [b][u]Compatability[/u][/b][/b][/size]
+
+[b]This mod does not really conflict with (m)any mods.[/b] The only known mod conflicts are:
+
+[list][*][b][url=https://www.nexusmods.com/fallout4/mods/18898]FROST[/url][/b] [color=#c9daf8](FROST already has Glowing Mirelurk Hatchlings)[/color]
+[*][b][url=https://www.nexusmods.com/fallout4/mods/72291]Explosive Mirelurk Hatchlings[/url][/b] [color=#c9daf8](can be patched)[/color]
+[*][b][url=https://www.nexusmods.com/fallout4/mods/72291]Horizon[/url][/b] [color=#c9daf8](can be patched)[/color]
+[/list]
+I am not aware of any other mods that would conflict with my mod. (This doesn't mean that there aren't any such mods!)
+
+By using xEdit I've checked if my mod conflicts with [b][url=https://www.nexusmods.com/fallout4/mods/47976?tab=description]Sim Settlements 2[/url][/b] or [b][url=https://www.nexusmods.com/fallout4/users/2593245?tab=user+files]Mutant Menagerie[/url][/b], and I couldn't find any conflicts.  
+You can use my mod together with these mods.
+
+[b][url=https://www.nexusmods.com/fallout4/mods/9239/?tab=description]Glowing Animals Emit Light[/url][/b] does not conflict with my mod, but the Glowing Hatchlings won't benefit from the new lights from that mod without a patch.
+
+This mod requires the [b][url=https://www.nexusmods.com/fallout4/mods/4598]Unofficial Fallout 4 Patch (UFO4P)[/url][/b] and changes the quest [url=https://fallout.fandom.com/wiki/Taking_Independence]Taking Independence[/url] to avoid NPCs yelling combat voice lines at Glowing Mirelurk Hatchlings that would not fit (e.g., [color=#00ffff][i]"Shoot them in the eyes!"[/i][/color]).  
+
+This mod is compatible with every other mod, as long as they don't touch the Mirelurk Hatchlings or conflict with the changes that UFO4P does to the quest. I am currently not aware of any mods that do that.
+If you've found issues in my mod or have questions, feel free to contact me in the [url=https://www.nexusmods.com/fallout4/mods/73815?tab=posts]Posts Section[/url] of this mod or use the [url=https://www.nexusmods.com/fallout4/mods/73815?tab=bugs]Bug Report Section[/url].
+
+
+
+[size=5][b]🍻 [b][u]Credits[/u][/b][/b][/size]
+
+[b][url=https://www.nexusmods.com/users/638441]Rigell[/url][/b] who made the textures and general outline of this mod.
+
+[url=https://ko-fi.com/redawt][img]https://i.imgur.com/thNBDs3.png[/img][/url]
+[/size]
