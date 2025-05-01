@@ -1,0 +1,44 @@
+
+[line]
+[size=5][b]Description[/b][/size]
+
+This mod patches NPCs Travel for FROST.
+Almost all NPCs from the original mod were patched, except synths and DLC NPCs. You need to manually deactivate them in the Holotape Settings on NPCs Travel. Wastelanders, Scavengers and Mercenaries were renamed to "Survivor", but still use their custom faction. You can still use the holotape settings to make them hostile or not, to activate trading with them etc.
+
+[line]
+[size=5][b]In-game instructions[/b][/size]
+
+A few settings need to be manually disabled in the NPCs Travel Holotape: 
+
+All DLC NPCs need to be disabled, and under the normal NPC Numbers sub-menu there is also a group that needs to be deactivated manually! 
+Take a look at the images and their description if you don't know how to do this.
+
+I've renamed the NPC options so that you can see how the NPCs were replaced. Example: "Minutemen Patrol" was renamed to "Federation (Minutemen)"
+If you notice that NPCs have wrong names or not lore-friendly NPCs appear, please report it in the bugs section. Thank you!
+
+[line]
+[size=5][b]Technical Details[/b][/size]
+
+This patch was made for [b]version 2.9.5 [/b] of the [b][url=https://www.nexusmods.com/fallout4/mods/16987?tab=description]NPCs Travel mod[/url][/b].
+You need to install this patch right after you've installed NPCs Travel.
+
+[line]
+[size=5][b]Credits[/b][/size]
+
+[list][*]Naugrim04
+[*]win2009
+[/list]
+[line]
+[size=5][b]Community Links[/b][/size]
+
+[list][*][url=https://www.reddit.com/r/fodust]Reddit[/url]  
+[*][url=https://discord.com/invite/BaKsm7Fn4A]Discord[/url]  
+[*][url=http://frost-survival-simulator.wikia.com/wiki/FROST[i]Survival[/i]Simulator_Wiki]FROST Wiki[/url]
+[/list]
+[line]
+
+[url=https://www.buymeacoffee.com/redawt][img]https://i.imgur.com/YxQRPv1.png[/img][/url]
+
+[url=https://www.patreon.com/redawt][img]https://i.imgur.com/3zeopH1.png[/img][/url]
+
+[url=https://ko-fi.com/redawt][img]https://i.imgur.com/UWqnDi6.png[/img][/url]

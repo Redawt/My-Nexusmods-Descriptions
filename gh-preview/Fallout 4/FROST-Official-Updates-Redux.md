@@ -81,18 +81,22 @@ We will answer your questions and help you out with installing or playing FROST.
 
 FROST can not be thrown into any mod set-up/load order, you have to build your load order around FROST.
 
----
-
-[![Support Me](https://i.imgur.com/tZKZJsn.png)](https://www.buymeacoffee.com/redawt)
-
-You can support me on Buy Me A Coffee or [through Nexus](https://www.nexusmods.com/users/47725848)!
 
 ---
-## **Community Links**
+## Community Links
 
 * [Reddit](https://www.reddit.com/r/fodust)  
 * [Discord](https://discord.com/invite/BaKsm7Fn4A)  
 * [FROST Wiki](http://frost-survival-simulator.wikia.com/wiki/FROST_Survival_Simulator_Wiki)
+
+---
+
+[![BuyMeACoffee](https://i.imgur.com/YxQRPv1.png)](https://www.buymeacoffee.com/redawt)
+
+[![Patreon](https://i.imgur.com/3zeopH1.png)](https://www.patreon.com/redawt)
+
+[![Ko-Fi](https://i.imgur.com/UWqnDi6.png)](https://ko-fi.com/redawt)
+
 
 ---
 ## ![Compatibility](https://fontmeme.com/permalink/221124/d777351746d2503835603e8393be39c2.png)

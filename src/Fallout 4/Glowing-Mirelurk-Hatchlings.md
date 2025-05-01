@@ -50,5 +50,13 @@ If you've found issues in my mod or have questions, feel free to contact me in t
 
 **[Rigell](https://www.nexusmods.com/users/638441)** who made the textures and general outline of this mod.
 
-[![Ko-Fi](https://i.imgur.com/thNBDs3.png)](https://ko-fi.com/redawt)
--normal-
+
+
+## ♥️ **__Community Links__**
+
+[![BuyMeACoffee](https://i.imgur.com/YxQRPv1.png)](https://www.buymeacoffee.com/redawt)
+
+[![Patreon](https://i.imgur.com/3zeopH1.png)](https://www.patreon.com/redawt)
+
+[![Ko-Fi](https://i.imgur.com/UWqnDi6.png)](https://ko-fi.com/redawt)
+

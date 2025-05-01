@@ -1,4 +1,5 @@
 [size=3]
+
 [line]
 [size=5][b]Description[/b][/size]
 This is patch for the [b][url=https://www.nexusmods.com/fallout4/mods/57181]Feral Ghouls Expansion Pack[/url][/b] to make it compatible with FROST.
@@ -7,6 +8,7 @@ This is patch for the [b][url=https://www.nexusmods.com/fallout4/mods/57181]Fera
 [size=5][b]Technical Information[/b][/size]
 
 This was made with [b]version 1.5[/b] of the [b][url=https://www.nexusmods.com/fallout4/mods/57181]Feral Ghouls Expansion Pack[/url][/b].
+
 This patch was created for the [color=#d98f40][b]SCRIPT INJECTION[/b][/color] version of FGEP. 
 It is not compatible with other the other version.
 
@@ -32,4 +34,19 @@ This mod is compatible with [color=#d98f40][b]More Feral Ghouls[/b][/color] and 
 [*]Legendary Spawns from FGEP were removed
 [*]And some other minor details
 [/list]
+[line]
+[size=5][b]Community Links[/b][/size]
+
+[list][*][url=https://www.reddit.com/r/fodust]Reddit[/url]  
+[*][url=https://discord.com/invite/BaKsm7Fn4A]Discord[/url]  
+[*][url=http://frost-survival-simulator.wikia.com/wiki/FROST[i]Survival[/i]Simulator_Wiki]FROST Wiki[/url]
+[/list]
+[line]
+
+[url=https://www.buymeacoffee.com/redawt][img]https://i.imgur.com/YxQRPv1.png[/img][/url]
+
+[url=https://www.patreon.com/redawt][img]https://i.imgur.com/3zeopH1.png[/img][/url]
+
+[url=https://ko-fi.com/redawt][img]https://i.imgur.com/UWqnDi6.png[/img][/url]
+
 [/size]

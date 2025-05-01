@@ -1,7 +1,7 @@
 ![Glowing Mirelurk Hatchlings Banner](https://fontmeme.com/permalink/230813/2d846cdcda7a231785920386b8e0bcd0.png)
 ![Glowing Mirelurk Hatchling](https://staticdelivery.nexusmods.com/mods/1151/images/73815/73815-1691957207-1944640901.jpeg)
 
-
+-normal-
 ## 🦀 **<ins>Glowing Hatchlings</ins>**
 
 This mod changes [Mirelurk Hatchlings](https://fallout.fandom.com/wiki/Mirelurk_%28Fallout_4%29#Mirelurk_hatchling) so that every 10th Mirelurk Hatchling will spawn as a Glowing Mirelurk Hatchling.
@@ -50,5 +50,14 @@ If you've found issues in my mod or have questions, feel free to contact me in t
 
 **[Rigell](https://www.nexusmods.com/users/638441)** who made the textures and general outline of this mod.
 
-[![Ko-Fi](https://i.imgur.com/thNBDs3.png)](https://ko-fi.com/redawt)
+
+
+## ♥️ **<ins>Community Links</ins>**
+
+[![BuyMeACoffee](https://i.imgur.com/YxQRPv1.png)](https://www.buymeacoffee.com/redawt)
+
+[![Patreon](https://i.imgur.com/3zeopH1.png)](https://www.patreon.com/redawt)
+
+[![Ko-Fi](https://i.imgur.com/UWqnDi6.png)](https://ko-fi.com/redawt)
+
 

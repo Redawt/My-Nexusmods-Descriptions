@@ -30,4 +30,14 @@ They are also independent from each other, you can enable both or only one of th
 * The guy who made the Tactical Thermonuclear Gnomes meme
 
 ---
+## Community Links
+
+
+[![BuyMeACoffee](https://i.imgur.com/YxQRPv1.png)](https://www.buymeacoffee.com/redawt)
+
+[![Patreon](https://i.imgur.com/3zeopH1.png)](https://www.patreon.com/redawt)
+
+[![Ko-Fi](https://i.imgur.com/UWqnDi6.png)](https://ko-fi.com/redawt)
+
+---
 -normal- -arial-
